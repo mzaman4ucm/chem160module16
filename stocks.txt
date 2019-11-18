@@ -1,0 +1,2 @@
+2014   2015   get_goog_val.bash   goog
+plotstocks.R   stocks.txt   
